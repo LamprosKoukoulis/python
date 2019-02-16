@@ -30,4 +30,3 @@ while m<bombs:
                         tb[random.randrange(x)][random.randrange(x)]='*'
 for i in tb:
     print(*i, sep=" ")
-	
